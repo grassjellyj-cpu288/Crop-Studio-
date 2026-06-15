@@ -1,0 +1,1 @@
+เพิ่มโค้ดป้องกันการเปิด Developer Tools (F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U, คลิกขวา) ลงในคลาส 
