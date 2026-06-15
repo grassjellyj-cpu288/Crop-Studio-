@@ -7,6 +7,7 @@
     const URL_PAGE3 = 'https://grassjellyj-cpu288.github.io/ULTIMATETROJANMAGNIFIER-/';
     const URL_PAGE4 = 'https://beautiful-rugelach-5f0408.netlify.app/';
     const URL_PAGE5 = 'https://taboonchai1991-ops.github.io/-Tro-library-BP-/';
+    const URL_PAGE6 = 'https://grassjellyj-cpu288.github.io/notepad-pro/';
 
     // ฟังก์ชันสร้างปุ่ม
     function createNavigationButton(text, url) {
@@ -64,18 +65,21 @@
         const btn3 = createNavigationButton('ULTIMATETROJANMAGNIFIER', URL_PAGE3);
         const btn4 = createNavigationButton('รวมรููป', URL_PAGE4);
         const btn5 = createNavigationButton('พระลึกลับแดนสยาม', URL_PAGE5);
+        const btn6 = createNavigationButton('notepad-pro', URL_PAGE6);
         btn2.id = 'btnPage2';
         btn3.id = 'btnPage3';
         btn4.id = 'btnPage4';
         btn5.id = 'btnPage5';
+        btn6.id = 'btnPage6';
 
 
         container.appendChild(btn2);
         container.appendChild(btn3);
         container.appendChild(btn4);
         container.appendChild(btn5);
+        container.appendChild(btn6);
 
-  }
+    }
 
     injectButtons();
 })();
