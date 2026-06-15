@@ -3,7 +3,7 @@
     'use strict';
 
     // กำหนด URL สำหรับแต่ละปุ่มโดยตรง
-    const URL_PAGE2 = 'https://grassjellyj-cpu288.github.io/Smart-Sharpen-Pro/';
+    const URL_PAGE2 = 'https://grassjellyj-cpu288.github.io/Smart-Sharpen-Pro-/';
     const URL_PAGE3 = 'https://grassjellyj-cpu288.github.io/ULTIMATETROJANMAGNIFIER-/';
     const URL_PAGE4 = 'https://beautiful-rugelach-5f0408.netlify.app/';
     const URL_PAGE5 = 'https://taboonchai1991-ops.github.io/-Tro-library-BP-/';
